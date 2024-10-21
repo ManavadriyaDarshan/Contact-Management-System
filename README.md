@@ -1,6 +1,4 @@
-Here’s a comprehensive **README.md** for your **Contact Management System** project:
 
----
 
 # Contact Management System - CodeQuest
 
