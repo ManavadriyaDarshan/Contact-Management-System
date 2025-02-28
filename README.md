@@ -149,12 +149,6 @@ This project is a **Contact Management System** where users can manage their con
 - **Mobile-Friendly Design**: Enhance UI for better mobile responsiveness.
 
 ---
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ### If you encounter any issues, feel free to open an issue or contact the project maintainer.
 
 ---
